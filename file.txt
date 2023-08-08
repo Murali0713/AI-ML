@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> Devops lab </title>
+</head>
+<body>
+<p> ji vhjg jjk k</p>
+</body>
+</html>
